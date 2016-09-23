@@ -102,6 +102,7 @@
       <value />
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ed6a43" />
