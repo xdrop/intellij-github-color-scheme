@@ -1,7 +1,7 @@
 # Intellij Github Color Scheme
 Intellij IDEA Github color scheme for **Java**
 
-![http://i.imgur.com/tziZW1O.png](http://i.imgur.com/48F9JXd.png)
+![Image](http://xdrop.me/img/github-theme.png)
 
 Font: **Consolas 12 pt**
 
