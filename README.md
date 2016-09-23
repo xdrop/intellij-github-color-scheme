@@ -9,21 +9,21 @@ Line spacing: **1.2**
 
 ## Installation
 
-Windows
+#### Windows
 ```
 git clone https://github.com/xdrop/intellij-github-color-scheme.git
 cd intellij-github-color-scheme
 Paste in: C:\Users\<User>\.<IntelliJDirectory>\config\colors
 ```
 
-Linux
+#### Linux
 ```
 git clone https://github.com/xdrop/intellij-github-color-scheme.git
 cd intellij-github-color-scheme
 cp Github.icls ~/.<IntelliJDirectory>/config/colors/
 ```
 
-macOS
+#### macOS
 ```
 git clone https://github.com/xdrop/intellij-github-color-scheme.git
 cd intellij-github-color-scheme
