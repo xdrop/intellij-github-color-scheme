@@ -4,10 +4,15 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="1790b9" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="55ff" />
+        <option name="FOREGROUND" value="1790b9" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -30,6 +35,11 @@
       <value>
         <option name="FOREGROUND" value="3d3d3d" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="ed6a43" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
