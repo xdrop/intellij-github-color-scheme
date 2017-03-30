@@ -3,7 +3,7 @@ Intellij IDEA Github color scheme for **Java**
 
 ![Image Preview](http://xdrop.me/img/github-theme2.png)
 
-Font: **Consolas 12 pt**
+Font: **Cousine 12 pt**
 
 Line spacing: **1.2**
 
